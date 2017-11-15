@@ -1,0 +1,380 @@
+    .StartA {
+        height: 100px;
+        box-sizing: border-box
+    }
+    
+    .img1 {
+        padding-top: 30px;
+        box-sizing: border-box;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+    
+    .h21 {
+        font-family: arial;
+        font-size: 16px;
+    }
+    
+    .flex {
+        display: flex
+    }
+    
+    .right {
+        margin-right: 30px;
+    }
+    
+    .mesto {
+        padding-top: 30px;
+        box-sizing: border-box
+    }
+    
+    .banner {
+        background-image: url(banner2.png);
+        height: 555px;
+        width: 1350px;
+    }
+    .banner1 {
+        background-image: url(onpape.com-26026301.jpg);
+        height: 555px;
+        width: 1350px;
+    }
+    
+    .pw {
+        width: 600px;
+        font-family: arial;
+        font-size: 30px;
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+        color:white
+    }
+    
+    .h22 {
+        font-family: arial;
+        font-size: 60px;
+        width: 800px;
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+        padding-top:100px;
+        box-sizing:border-box;
+        color:white
+    }
+    .h22:hover{
+        font-size:65px;
+        transition: 4s;
+    }
+    .pw:hover{
+        font-size:35px;
+        transition: 4s;
+    }
+        .io {
+        color: gray;
+        font-family: arial;
+        padding-top: 50px;
+        text-align: center;
+        margin-right:98px;
+        margin-top:30px;
+        height:350px;
+        border: 5px solid gray;
+    }
+    .color{
+        color:black;
+        font-family:arial
+    }
+.wpw{
+    width:250px;
+}
+.baton{
+    background: royalblue;
+    color:white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size:20px;
+    font-family: arial;
+    border-radius: 30px;
+    border:none;
+}
+.baton:hover{
+    background: blue;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size:25px;
+    font-family: arial;
+    border-radius: 20px;
+    transition: 3s;
+}
+.klips{
+    height:700px;
+    background: white;
+}
+.a1{
+    text-decoration: none;
+    color:black;
+}
+.a1:hover{
+	color:orange;
+}
+.box{
+    width:560px;
+    height:315px;
+    margin-left:80px;
+    margin-top: 30px;
+}
+.divan{
+    background-image: url(lololol.jpeg);
+    width:225px;
+    height:205px;
+    font-family: arial;
+    font-size: 25px;
+    color:black;
+    margin-left:70px;
+    margin-top:60px;
+    text-align: center;
+    border: 5px solid gray;
+	background-size:100%;
+}
+.divan:hover{
+	width:250px;
+    height:225px;
+	transition: 1s;
+	border: 5px solid black;
+}
+.stul{
+    background-image: url(images.jpeg);
+    width:225px;
+    height:205px;
+    font-family: arial;
+    font-size: 25px;
+    color:black;
+    margin-left:85px;
+    margin-top:60px;
+    text-align: center;
+    border: 5px solid gray;
+	background-size:100%;
+}
+.stul:hover{
+	width:250px;
+    height:225px;
+	transition: 1s;
+	border: 5px solid black;
+}
+.ikea{
+    background-image: url(depositphotos_87129132-stock-photo-background-made-of-firewood-logs.jpg);
+    width:225px;
+    height:205px;
+    font-family: arial;
+    font-size: 25px;
+    color:black;
+    margin-left:85px;
+    margin-top:60px;
+    text-align: center;
+    border: 5px solid gray;
+	background-size:140%;
+}
+.ikea:hover{
+	width:250px;
+    height:225px;
+	transition: 1s;
+	border: 5px solid black;
+}
+.lak1{
+    background-image: url(hg.jpeg);
+    width:225px;
+    height:205px;
+    font-family: arial;
+    font-size: 25px;
+    color:black;
+    margin-left:85px;
+    margin-top:60px;
+    text-align: center;
+    border: 5px solid gray;
+	background-size:130%;
+}
+.lak1:hover{
+	width:250px;
+    height:225px;
+	transition: 1s;
+	border: 5px solid black;
+}
+.polka1{
+    display: flex
+}
+.koma{
+	height:500px;	
+	background: white;
+}
+.img12{
+	border-radius: 90px;
+	width:200px;
+	height:250px;
+	margin-left:570px;
+}
+.h25{
+	color:grey;
+	font-size:25px;
+	font-family: arial;
+	text-align: center;
+}
+.p5{
+	color:grey;
+	font-size:19px;
+	font-family: arial;
+	width:200px;
+	margin-left: 580px;
+}
+.lamp{
+	background-image: url(A2488LT-1AB.jpg);
+    width:225px;
+    height:205px;
+    font-family: arial;
+    font-size: 25px;
+    color:black;
+    margin-left:70px;
+    margin-top:60px;
+    text-align: center;
+    border: 5px solid gray;
+	background-size:100%;
+}
+.lamp:hover{
+	width:250px;
+    height:225px;
+	transition: 1s;
+	border: 5px solid black;
+}
+.lustra{
+	background-image: url(download%D1%8E.jpeg);
+    width:225px;
+    height:205px;
+    font-family: arial;
+    font-size: 25px;
+    color:black;
+    margin-left:85px;
+    margin-top:60px;
+    text-align: center;
+    border: 5px solid gray;
+	background-size:100%;
+}
+.lustra:hover{
+	width:250px;
+    height:225px;
+	transition: 1s;
+	border: 5px solid black;
+}
+.fonar{
+	background-image: url(downlo.jpeg);
+    width:225px;
+    height:205px;
+    font-family: arial;
+    font-size: 25px;
+    color:black;
+    margin-left:85px;
+    margin-top:60px;
+    text-align: center;
+    border: 5px solid gray;
+	background-size:100%;
+}
+.fonar:hover{
+	width:250px;
+    height:225px;
+	transition: 1s;
+	border: 5px solid black;
+}
+.svet{
+	background-image: url(downloa.jpeg);
+    width:225px;
+    height:205px;
+    font-family: arial;
+    font-size: 25px;
+    color:black;
+    margin-left:85px;
+    margin-top:60px;
+    text-align: center;
+    border: 5px solid gray;
+	background-size:100%;
+}
+.svet:hover{
+	width:250px;
+    height:225px;
+	transition: 1s;
+	border: 5px solid black;
+}
+.sp3{
+	background-image: url(ps3.jpeg);
+    width:225px;
+    height:205px;
+    font-family: arial;
+    font-size: 25px;
+    color:black;
+    margin-left:85px;
+    margin-top:60px;
+    text-align: center;
+    border: 5px solid gray	
+}
+.sp3:hover{
+	width:250px;
+    height:225px;
+	transition: 1s;
+	border: 5px solid black;
+}
+.ps4{
+	background-image: url(ps4.jpeg);
+    width:225px;
+    height:205px;
+    font-family: arial;
+    font-size: 25px;
+    color:black;
+    margin-left:85px;
+    margin-top:60px;
+    text-align: center;
+    border: 5px solid gray;
+	background-size:170%;
+}
+.ps4:hover{
+	width:250px;
+    height:225px;
+	transition: 1s;
+	border: 5px solid black;
+}
+.xx{
+	background-image: url(xx.jpg);
+    width:225px;
+    height:205px;
+    font-family: arial;
+    font-size: 25px;
+    color:black;
+    margin-left:85px;
+    margin-top:60px;
+    text-align: center;
+    border: 5px solid gray;
+	background-size:150%;
+}
+.xx:hover{
+	width:250px;
+    height:225px;
+	transition: 1s;
+	border: 5px solid black;
+}
+.xo{
+	background-image: url(xo.jpg);
+    width:225px;
+    height:205px;
+    font-family: arial;
+    font-size: 25px;
+    color:black;
+    margin-left:85px;
+    margin-top:60px;
+    text-align: center;
+    border: 5px solid gray;
+	background-size:150%;
+}
+.xo:hover{
+	width:250px;
+    height:225px;
+	transition: 1s;
+	border: 5px solid black;
+}
